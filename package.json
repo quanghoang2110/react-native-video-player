@@ -1,6 +1,6 @@
 {
   "name": "@starling-tech/react-native-video-player",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "description": "A video player for React Native with controls",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "author": "Corné Dorrestijn <contact@corne.info>",
   "license": "ISC",
-  "repository": "cornedor/react-native-video-player",
+  "repository": "quanghoang2110/react-native-video-player",
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
