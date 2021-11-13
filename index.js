@@ -12,7 +12,7 @@ import {
   ViewPropTypes,
 } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
-import Video from "react-native-video"; // eslint-disable-line
+import Video from "@starling-tech/react-native-video"; // eslint-disable-line
 
 const BackgroundImage = ImageBackground || Image; // fall back to Image if RN < 0.46
 
